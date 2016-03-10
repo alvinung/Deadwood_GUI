@@ -1,0 +1,108 @@
+Defrocked Priest / Look out below! / 2
+Marshal Canfield / Hold fast! / 3
+One-Eyed Man / Balderdash! / 4
+Squeaking Boy / I'll say! / 2
+Pharaoh Imhotep / Attack, soldiers! / 4
+Aunt Martha / You got nothin'! / 6
+Rug Merchant / Don't leave my store! / 1
+Banker / Trust me. / 2
+Talking Mule / Nice work, Johnny! / 5
+The Duck / Waaaak! / 4
+His Brother / Waaaaaaak! / 6
+Auctioneer / Going once! / 5
+General Custer / Go west! / 6
+Town Drunk / Even me! / 2
+Squinting Miner / Sure we can! / 4
+Poltergeist / Wooooo! / 5
+Drunk / Where's Willard? / 3
+Librarian / Shhhhh! / 4
+Man with Hay / Hey! / 6
+Angry Barber / Hold him still! / 1
+Woman with Board / Nonsense, Frank! / 3
+Man on Fire / It burns! / 5
+Hollering Boy / Over here, mister! / 2
+Drunk Farmer / Git outta me barn! / 3
+Meek Little Sarah / He's so cute! / 5
+Sleeping Man / Snnkkk snnkk snnkk. / 1
+Man with Pig / Tally-Hooo! / 2
+Shooter / Where's my britches? / 4
+Buster / One two three go! / 1
+Man Reading Paper / Ouchie! / 4
+Fat Pete / Nice kick, boss! / 5
+Shot in Back / Arrrggh! / 2
+Shot in Leg / Ooh, lordy! / 4
+Leaps into Cake / Dangit, Jesse! / 5
+Martin / Have you tried soy cheese? / 6
+Piano Player / It's a nocturne! / 2
+Man in Turban / My stars! / 3
+Falls on Hoe / Ow! / 4
+Preacher / My word! / 3
+Amused Witness / Tee hee hee! / 6
+Falls from Tree / What ho! / 1
+Laughing Woman / Tis to laugh! / 3
+Man with Whistle / Tweeeeet! / 4
+Curious Girl / Are you sure? / 3
+Ghost of Plato / It happend to me! / 4
+Ex-Convict / Never again! / 4
+Man with Onion / Fresh onions! / 6
+Surprised Bison / Mmrrrrrph! / 2
+Man with Horn / Ta daaaa! / 4
+Staggering Man / You never know! / 3
+Woman with Beer / Howdy, stranger! / 5
+Marcie / Welcome home! / 6
+Looks like Elvis / Thankyouverymuch. / 4
+Singing Dead Man / Yeah! / 5
+Apothecary / Such drugs I have. / 6
+Flustered Man / Well, I never! / 1
+Space Monkey / Ook! / 2
+Cowbot Dan / Bzzzzzt! / 5
+Jailer / You there! / 2
+Mephistopheles / Be not afraid! / 4
+Breaks a Window / Oops! / 5
+Man in Poncho / Howdy, Jones! / 1
+Ecstatic Housewife / This is fine! / 3
+Isaac / The mail! / 5
+Film Critic / Implausible! / 5
+Hobo with Bat / Nice house! / 6
+Cow / Moo. / 2
+St. Clement of Alexandria / Peace be with you child! / 3
+Josie / Yikes! / 4
+Bewhisker'd Cowpoke / Oh, sweet Lord! / 3
+Dog / Wurf! / 5
+Willard / Ain't that a sight? / 2
+Leprechaun / Begorrah! / 3
+Startled Ox / Mrr? / 5
+Shot in Head / Arrgh! / 1
+Leaps Out of Cake / Oh, for Pete's sake! / 4
+Shot Three Times / Ow! Ow! Ow! / 6
+Voice of God / Grab hold, son! / 2
+Hands of God / ! / 3
+Jack Kemp / America! / 4
+Opice (Monkey) / Ukk! (Ook)! / 5
+Man with Gun / Hold it right there! / 6
+Man with Rope / Look out below! / 1
+Svetlana / Says who? / 2
+Accidental Victim / Ow! My spine! / 5
+Thrifty Mike / Call! / 1
+Sober Physician / Raise! / 3
+Man on Floor / Fold! / 5
+Very Wet Man / Sheesh! / 2
+Dejected Housewife / Its time had come. / 4
+Man with Box / Progress! / 5
+Liberated Nun / Let me have it! / 3
+Witch Doctor / Oogie Boogie! / 5
+Voice of Reason / Come on, now! / 6
+Marksman / Pull! / 4
+Postal Worker / It's about time! / 5
+A Horse / Yes Sir! / 6
+Burning Man / Make it stop! / 2
+Cheese Vendor / Opa! / 4
+Hit with Table / Ow! A table? / 5
+Fraternity Pledge / Beer me! / 2
+Man with Sword / None shall pass! / 6
+Detective / I have a hunch. / 3
+File Clerk / My stapler! / 4
+Cindy Lou / Dear Lord! / 5
+Farmer / Git off a that! / 2
+Exploding Horse / Boom! / 4
+Jack / Here we go again! / 6

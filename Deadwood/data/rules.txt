@@ -1,0 +1,51 @@
+On Your Turn:
+On your turn, you can do different things depending on where you are.
+- Move: You can only move to adjacent rooms. CLICK on the NAME of the room you want to move to.
+- Work: If you are working on a role, you must either act (CLICK on ACT BUTTON), or rehearse (CLICK on REHEARSE BUTTON).
+- Upgrade: At the Casting Office, you can pay to raise your rank. You may do this before or after you move.
+
+Moving and Taking Roles:
+- Moving: If you are not working, you can move. Move from one area to any adjacent area,
+through any connection. You can take a role on the same turn, but you don’t work on it yet. Moving is optional.
+- Taking a Role: Taking a role just means CLICKing on that role. Multiple players can work on the same scene, but not on the same role.
+You can only work on roles that are EQUAL TO or LOWER THAN your rank.
+
+Working on a Role:
+Working on roles is how you earn credits and money. Every film has a budget between 2 and 6 million dollars.
+This number dictates two things: how difficult the scene will be to complete, and how much
+money the movie will pay out. It turns out that big-budget movies are harder to complete. Who knew?
+When working on a role, you have two choices: you can act, or rehearse.
+(Again, you can’t leave until the scene is done.)
+- Acting: Acting means performing your role, or at least trying to. For this, you earn money and/or credits.
+To act, CLICK the ACT BUTTON. This simulates rolling a six-sided die.
+If you "roll" equal to or higher than the budget of the movie, you succeed.
+If you roll lower than the budget of the movie, you fail.
+The rewards for success and failure depend on whether you working on or off the card.
+--- On the Card: When you succeed, you get TWO CREDITS. When you fail, you get NOTHING.
+--- Off the Card: When you succeed, you get ONE DOLLAR and ONE CREDIT. When you fail, you still get ONE DOLLR.
+Moving Along: Every set has one, two, or three shots. These shots must be completed before the scene is wrapped.
+- Rehearsing: Instead of acting, you can rehearse. In this case, you do not roll and you do not earn anything.
+To rehearse, CLICK on the REHEARSE BUTTON. A practice chip gives you +1 to all die "rolls" that you make
+while acting on this role. You can accumulate several practice chips if you want, one with each rehearsal,
+until you reach a point of guaranteed success. At this point, you have to act.
+
+It’s a Wrap!
+When the last shot in a scene is finished, the scene wraps and the card is removed.
+Bonus money is paid out if there was at least one player working on the card.
+
+Upgrading:
+At the Casting Office, you can pay to improve your rank. You can do this at the beginning or end of
+your turn (that is, before or after you move). The cost to upgrade can be paid in either dollars or credits.
+Note that the price to reach any particular rank is the same no matter what rank you are now. You do not have
+to pay for the intervening ranks. This means that becoming a 6 is the same price whether you are a 1 or a 5.
+
+Ending the Day:
+The day is over when there is only one scene left. This last scene does not finish, and there
+is no further payment to anyone who was still working on it. Players return to the trailers
+to play the next day.
+
+Scoring:
+Your score is calculated as follows:
+- score one point for every dollar,
+- one point for every credit,
+- and five points multiplied by your rank.
